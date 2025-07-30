@@ -50,16 +50,4 @@ Output Variables:
 14.	AVG WORD LENGTH
 Check out the output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
 
-6	Timeline
-6 days, sooner is better. 
 
-7	Where to submit
-To submit your solution, please fill out this Google form, upload your solution submission to Google Drive, and share the drive url in the Google form: https://forms.gle/nvWAgrCBdq1JkKou8 
-
-Make sure your submission contains:
-a) .py file
-b) output in csv or Excel file as given in the output structure
-c) instructions
-1.	explaining how you approached the solution
-2.	How to run the .py file to generate output
-3.	Include all dependencies required
